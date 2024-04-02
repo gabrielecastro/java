@@ -39,8 +39,8 @@ o usuário não digitar 0, para sair, novas apostas serão permitidas.
 #### Clonando o projeto
 
 ```bash
-  git clone ...
-  cd my-project
+  git clone git@github.com:gabrielecastro/java.git
+  cd LotoFacil
 ```
 
 #### Bibliotecas usadas
@@ -49,4 +49,4 @@ o usuário não digitar 0, para sair, novas apostas serão permitidas.
 - [Character](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)
 
 #### Versão do JDK
-
+21.0.2
